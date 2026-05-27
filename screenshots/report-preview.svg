@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540" role="img" aria-label="Analytics QA report preview">
+  <rect width="960" height="540" fill="#f7f8fb"/>
+  <rect x="54" y="48" width="852" height="444" rx="8" fill="#ffffff" stroke="#dce3ea"/>
+  <text x="86" y="100" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#111827">Analytics QA Report</text>
+  <text x="86" y="135" font-family="Arial, sans-serif" font-size="16" fill="#526071">7 findings · 4 high severity · dashboard_export.csv</text>
+  <rect x="86" y="172" width="788" height="52" rx="6" fill="#eef4f8"/>
+  <text x="108" y="204" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#07365f">Check</text>
+  <text x="310" y="204" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#07365f">Severity</text>
+  <text x="455" y="204" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#07365f">Finding</text>
+  <g font-family="Arial, sans-serif" font-size="15" fill="#526071">
+    <text x="108" y="258">missing_dates</text><text x="310" y="258" fill="#b42318">high</text><text x="455" y="258">Missing 2026-04-04</text>
+    <text x="108" y="306">duplicate_rows</text><text x="310" y="306" fill="#b42318">high</text><text x="455" y="306">2 rows duplicate reporting grain</text>
+    <text x="108" y="354">null_kpis</text><text x="310" y="354" fill="#b42318">high</text><text x="455" y="354">orders contains null values</text>
+    <text x="108" y="402">source_naming</text><text x="310" y="402" fill="#d58936">medium</text><text x="455" y="402">source value outside taxonomy</text>
+  </g>
+  <rect x="86" y="430" width="788" height="1" fill="#dce3ea"/>
+  <text x="86" y="462" font-family="Arial, sans-serif" font-size="15" fill="#111827">Next action: route issues to source export, mapping, naming or dashboard logic owner.</text>
+</svg>

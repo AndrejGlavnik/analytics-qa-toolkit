@@ -1,0 +1,9 @@
+{
+  "date_column": "date",
+  "grain_columns": ["date", "country", "brand", "source", "campaign"],
+  "required_kpis": ["sessions", "orders", "revenue"],
+  "spike_threshold_ratio": 2.5,
+  "naming_columns": ["source", "campaign"],
+  "expected_source_values": ["google_ads", "meta_ads", "retailer_sales", "ga4"],
+  "mapping_key_columns": ["country", "brand"]
+}

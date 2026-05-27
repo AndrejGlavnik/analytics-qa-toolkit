@@ -1,0 +1,9 @@
+date,country,brand,source,campaign,sessions,orders,revenue
+2026-04-01,NL,Core,google_ads,NL_CORE_SEARCH_BRAND,1200,48,2400
+2026-04-02,NL,Core,google_ads,NL_CORE_SEARCH_BRAND,1180,46,2290
+2026-04-02,NL,Core,google_ads,NL_CORE_SEARCH_BRAND,1180,46,2290
+2026-04-03,NL,Core,meta_ads,NL_CORE_PAID_SOCIAL,950,33,1620
+2026-04-05,NL,Core,meta ads,NL Core Paid Social,970,,1680
+2026-04-06,BE,Core,ga4,BE_CORE_SITE,1400,52,2600
+2026-04-07,BE,Core,ga4,BE_CORE_SITE,5100,55,2700
+2026-04-08,FR,NewBrand,retailer_sales,FR_NEW_RETAILER,700,20,980
